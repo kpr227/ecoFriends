@@ -1,5 +1,7 @@
-<p align="center">
+<center>
 # eco Friend - 친환경 쇼핑몰 
+</center>
+<p align="center">
  <img src="https://user-images.githubusercontent.com/79494725/114126441-64e45700-9933-11eb-9083-5446ab3c8bf9.png" width="50%" height="50%">
 </p>
 #### 주제선정 이유
