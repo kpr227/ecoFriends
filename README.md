@@ -1,7 +1,7 @@
+<p align="center">
 # eco Friend - 친환경 쇼핑몰 
-<img src="https://user-images.githubusercontent.com/79494725/114126441-64e45700-9933-11eb-9083-5446ab3c8bf9.png" width="800" height="600">
-
-
+ <img src="https://user-images.githubusercontent.com/79494725/114126441-64e45700-9933-11eb-9083-5446ab3c8bf9.png" width="50%" height="50%">
+</p>
 #### 주제선정 이유
 * 환경오염 문제 / 폐기물 처리문제
 * 친환경 제품 사용률 저하
