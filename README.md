@@ -40,6 +40,7 @@
 * php(API)
 
 ##### ERD설계도
+<img src="![erd](https://user-images.githubusercontent.com/79494725/114125840-34e88400-9932-11eb-8b5a-188c9f72fc44.jpg)" width="300" height="300">
 ![erd](https://user-images.githubusercontent.com/79494725/114125840-34e88400-9932-11eb-8b5a-188c9f72fc44.jpg){: width="400" height="300"}
 
 
