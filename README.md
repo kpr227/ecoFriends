@@ -8,7 +8,7 @@
 ##### 프로젝트 설명
 
 ##### 프로젝트 기간
-2021-02-22~2021-03-19 (25일)
+* 2021-02-22~2021-03-19 (25일)
 
 ##### 학습목표
 * 교육과정 내용 활용
@@ -40,7 +40,7 @@
 * php(API)
 
 ##### ERD설계도
-![erd](https://user-images.githubusercontent.com/79494725/114125840-34e88400-9932-11eb-8b5a-188c9f72fc44.jpg)
+![erd](https://user-images.githubusercontent.com/79494725/114125840-34e88400-9932-11eb-8b5a-188c9f72fc44.jpg){: width="400" height="300"}
 
 
 
